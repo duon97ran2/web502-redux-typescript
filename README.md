@@ -1,1 +1,1 @@
-# web502-redux-typescript-
+# web502-redux-typescript
